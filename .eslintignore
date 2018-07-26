@@ -1,0 +1,5 @@
+dist/*
+mocks/*
+build/*.js
+config/*.js
+src/helper/*
