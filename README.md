@@ -54,7 +54,7 @@ src/pages.js
   {
     path: 'pages/activity/index',
     subPackage: true,
-    root: 'pages/activity/',
+    root: 'pages/activity',
     config: {
       navigationBarTitleText: '活动页面'
     }
